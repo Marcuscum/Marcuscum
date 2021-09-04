@@ -2,9 +2,9 @@
 
 #### - Selam ben marcus 19 yaşındayım 2 yıldır javascriptle ilgileniyorum. 
 
-> Türkish Student \n
-> Bot Developer \n
-> a Little Desginer \n
+#### > Türkish Student 
+#### > Bot Developer 
+#### > a Little Desginer 
 
 ### My Social Acc
 - marcus.salvo
